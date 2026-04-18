@@ -15,3 +15,4 @@ i analysed the streaming patterns and catergorized them into different catergori
   Mind Mapping 
  
 
+
